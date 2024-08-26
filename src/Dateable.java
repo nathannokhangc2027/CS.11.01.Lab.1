@@ -4,7 +4,6 @@ public class Dateable {
 
     public static void main(String[] args) {
         Scanner ageInput = new Scanner(System.in);
-        int ageAnswer = -1;
         System.out.println ("What is your age?");
         ageAnswer = ageInput.nextInt();
         int datingAge = ageAnswer/2 +7;
