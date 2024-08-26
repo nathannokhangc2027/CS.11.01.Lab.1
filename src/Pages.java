@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pages {
+
 
     public static void main(String[] args) {
         Scanner ageInput = new Scanner(System.in);
@@ -11,4 +11,4 @@ public class Pages {
 
     }
 
-}
+
